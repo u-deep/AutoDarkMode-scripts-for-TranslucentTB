@@ -1,0 +1,69 @@
+﻿{
+  "$schema": "https://TranslucentTB.github.io/settings.schema.json",
+  "desktop_appearance": {
+    "accent": "acrylic",
+    "color": "#00000050",
+    "show_peek": false,
+    "show_line": false
+  },
+  "visible_window_appearance": {
+    "enabled": true,
+    "accent": "acrylic",
+    "color": "#00000050",
+    "show_peek": true,
+    "show_line": false,
+    "rules": {
+      "window_class": {},
+      "window_title": {},
+      "process_name": {}
+    }
+  },
+  "maximized_window_appearance": {
+    "enabled": true,
+    "accent": "acrylic",
+    "color": "#00000050",
+    "show_peek": true,
+    "show_line": false,
+    "rules": {
+      "window_class": {},
+      "window_title": {},
+      "process_name": {}
+    }
+  },
+  "start_opened_appearance": {
+    "enabled": true,
+    "accent": "acrylic",
+    "color": "#00000050",
+    "show_peek": true,
+    "show_line": false
+  },
+  "search_opened_appearance": {
+    "enabled": true,
+    "accent": "acrylic",
+    "color": "#00000050",
+    "show_peek": true,
+    "show_line": false
+  },
+  "task_view_opened_appearance": {
+    "enabled": true,
+    "accent": "clear",
+    "color": "#00000050",
+    "show_peek": false,
+    "show_line": false
+  },
+  "battery_saver_appearance": {
+    "enabled": false,
+    "accent": "acrylic",
+    "color": "#00000050",
+    "show_peek": true,
+    "show_line": false
+  },
+  "ignored_windows": {
+    "window_class": [],
+    "window_title": [],
+    "process_name": []
+  },
+  "hide_tray": false,
+  "disable_saving": false,
+  "verbosity": "warn"
+}

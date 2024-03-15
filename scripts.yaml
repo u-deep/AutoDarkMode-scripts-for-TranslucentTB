@@ -1,0 +1,10 @@
+Enabled: true
+Component:
+  Scripts:
+  - Name: TB
+    Command: powershell
+    WorkingDirectory: C:\Users\udeep\AppData\Roaming\AutoDarkMode
+    ArgsLight: ['C:\Users\udeep\AppData\Roaming\AutoDarkMode\tb_light.py', echo I am a light command]
+    ArgsDark: ['C:\Users\udeep\AppData\Roaming\AutoDarkMode\tb_dark.py', echo I am a dark command]
+    AllowedSources: [Any]
+
